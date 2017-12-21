@@ -5,3 +5,7 @@ body
     font-size: 9pt;
     background-color: #FAFAFA;
 }
+div {
+    width: 770px;
+    word-wrap: break-word;
+}
